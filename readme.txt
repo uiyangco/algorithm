@@ -1,3 +1,1 @@
-hahahaha
-hello
-hahahahah
+this is algorithm project.
